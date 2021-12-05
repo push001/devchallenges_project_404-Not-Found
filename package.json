@@ -1,0 +1,19 @@
+{
+  "name": "devchallenges_project_404-not-found",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/push001/devchallenges_project_404-Not-Found.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/push001/devchallenges_project_404-Not-Found/issues"
+  },
+  "homepage": "https://github.com/push001/devchallenges_project_404-Not-Found#readme"
+}
